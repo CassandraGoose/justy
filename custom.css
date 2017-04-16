@@ -1,0 +1,19 @@
+html, h2 {
+  color: #eb00a5;
+}
+
+button {
+  background-color: #eb00a5 !important;
+  color: white !important;
+}
+
+.back {
+  background-image: url("images/gif.gif");
+  background-size: 100%;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+.top {
+  padding-top: 6em;
+}
