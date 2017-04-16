@@ -1,4 +1,4 @@
-html, h5 {
+html, h5, h6, p {
   color: #eb00a5;
 }
 button {
@@ -8,6 +8,10 @@ button {
 
 .oben {
   padding-top: 6em;
+}
+
+.unten{
+  padding-bottom: 6em;
 }
 
 .back{
