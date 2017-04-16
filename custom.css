@@ -1,0 +1,18 @@
+html, h5 {
+  color: #eb00a5;
+}
+button {
+  background-color: #eb00a5 !important;
+  color: lime !important;
+}
+
+.oben {
+  padding-top: 6em;
+}
+
+.back{
+  background-image: url("images/giphy.gif");
+  background-size: 100%;
+  min-height: 100%;
+  min-width: 100%;
+}
