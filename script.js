@@ -4,7 +4,7 @@ $(document).ready(function(){
 var max = Math.floor(5)
 
 
-  var array = ["Kevin!","slag","gutter butter feind","moot","did I fuckin stutter?!","ur totes adorbz (for a cunt)"]
+  var array = ["Kevin!","bangers and whatever mash is...","cina-butter feind","meow","did I actually stutter?!","ur totes adorbz (for a clear to see reasons)"]
   console.log("it's working");
 $('#button').click(function(){
   $('#answer').empty()
